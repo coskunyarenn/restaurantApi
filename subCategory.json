@@ -36,6 +36,15 @@
         "sub_category": 2,
         "language__name": "English",
         "language__code": "EN"
+      },
+      {
+        "id": 4,
+        "name": "mezler",
+        "description": "ddd",
+        "language": 1,
+        "sub_category": 2,
+        "language__name": "Türkçe",
+        "language__code": "TR"
       }
     ]
   },
