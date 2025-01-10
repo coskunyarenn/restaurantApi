@@ -22,45 +22,5 @@
     "firm": 1,
     "firm__name": "Afitap",
     "is_active": true
-  },
-  {
-    "id": 4,
-    "name": "English",
-    "code": "EN",
-    "firm": 2,
-    "firm__name": "Cafe34",
-    "is_active": true
-  },
-  {
-    "id": 5,
-    "name": "Turkce",
-    "code": "TR",
-    "firm": 2,
-    "firm__name": "Cafe34",
-    "is_active": true
-  },
-  {
-    "id": 6,
-    "name": "Rusca",
-    "code": "RU",
-    "firm": 2,
-    "firm__name": "Cafe34",
-    "is_active": true
-  },
-  {
-    "id": 7,
-    "name": "Turkce",
-    "code": "TR",
-    "firm": 3,
-    "firm__name": "Cafe38",
-    "is_active": true
-  },
-  {
-    "id": 8,
-    "name": "English",
-    "code": "EN",
-    "firm": 3,
-    "firm__name": "Cafe38",
-    "is_active": true
   }
 ]
