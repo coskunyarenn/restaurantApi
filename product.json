@@ -48,5 +48,55 @@
         "unit__name": "1 Porsiyon"
       }
     ]
+  },
+  {
+    "id": 2,
+    "name": "Atom",
+    "image": "http://127.0.0.1:8000/media/files/product/None/beyti.jpg",
+    "is_active": true,
+    "firm": 1,
+    "sub_category": 2,
+    "firm__name": "Afitap",
+    "sub_category__name": "Mezeler",
+    "productlanguage": [
+      {
+        "id": 3,
+        "product": 1,
+        "product__name": "Atom",
+        "name": "Atomi",
+        "description": "test description for eng",
+        "language": 2,
+        "language__name": "English",
+        "language__code": "EN"
+      },
+      {
+        "id": 2,
+        "product": 1,
+        "product__name": "Atom",
+        "name": "Atom",
+        "description": "Beyti acıklaması",
+        "language": 1,
+        "language__name": "Türkçe",
+        "language__code": "TR"
+      }
+    ],
+    "productprice": [
+      {
+        "id": 3,
+        "product": 1,
+        "product__name": "Atom",
+        "price": "700.00",
+        "unit": 7,
+        "unit__name": "1.5 Porsiyon"
+      },
+      {
+        "id": 2,
+        "product": 1,
+        "product__name": "Atom",
+        "price": "500.00",
+        "unit": 6,
+        "unit__name": "1 Porsiyon"
+      }
+    ]
   }
 ]
