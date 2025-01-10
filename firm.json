@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "firm": 1,
+    "category__firm": 1,
+    "firm__name": "Afitap"
+  },
+  {
+    "id": 2,
+    "firm": 2,
+    "category__firm": 2,
+    "firm__name": "Cafe38"
+  },
+  {
+    "id": 3,
+    "firm": 3,
+    "category__firm": 3,
+    "firm__name": "Cafe34"
+  },
+  {
+    "id": 4,
+    "firm": 4,
+    "category__firm": 4,
+    "firm__name": "Cucina"
+  }
+]
