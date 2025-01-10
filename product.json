@@ -1,167 +1,52 @@
-{
-  "products": [
-    {
-      "id": 1,
-      "name": "Beyti Kebabı",
-      "image": "http://127.0.0.1:8000/media/files/product/None/beyti.jpg",
-      "is_active": true,
-      "firm": 1,
-      "sub_category": 1,
-      "firm__name": "Afitap",
-      "sub_category__name": "Kebaplar",
-      "productlanguage": [
-        {
-          "id": 3,
-          "product": 1,
-          "product__name": "Beyti Kebabı",
-          "name": "Beyti Kebab (EN)",
-          "description": "test description for eng",
-          "language": 2,
-          "language__name": "English",
-          "language__code": "EN"
-        },
-        {
-          "id": 2,
-          "product": 1,
-          "product__name": "Beyti Kebabı",
-          "name": "Beyti Kebabı",
-          "description": "Beyti acıklaması",
-          "language": 1,
-          "language__name": "Türkçe",
-          "language__code": "TR"
-        }
-      ],
-      "productprice": [
-        {
-          "id": 3,
-          "product": 1,
-          "product__name": "Beyti Kebabı",
-          "price": "700.00",
-          "unit": 7,
-          "unit__name": "1.5 Porsiyon"
-        },
-        {
-          "id": 2,
-          "product": 1,
-          "product__name": "Beyti Kebabı",
-          "price": "500.00",
-          "unit": 6,
-          "unit__name": "1 Porsiyon"
-        }
-      ]
-    }
-  ],
-  "sub_category": [
-    {
-      "id": 3,
-      "name": "Tatlılar",
-      "image": null,
-      "category": 1,
-      "category__firm": 1,
-      "is_active": true,
-      "category__name": "Yemek",
-      "subcategorylang": [
-        {
-          "id": 3,
-          "name": "Tatlılar",
-          "description": "test",
-          "language": 1,
-          "sub_category": 3,
-          "language__name": "Türkçe",
-          "language__code": "TR"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Mezeler",
-      "image": null,
-      "category": 1,
-      "category__firm": 1,
-      "is_active": true,
-      "category__name": "Yemek",
-      "subcategorylang": [
-        {
-          "id": 4,
-          "name": "mezes",
-          "description": "ddd",
-          "language": 2,
-          "sub_category": 2,
-          "language__name": "English",
-          "language__code": "EN"
-        }
-      ]
-    },
-    {
-      "id": 1,
-      "name": "Kebaplar",
-      "image": "http://127.0.0.1:8000/media/files/subcategory/None/adana.png",
-      "category": 1,
-      "category__firm": 1,
-      "is_active": true,
-      "category__name": "Yemek",
-      "subcategorylang": [
-        {
-          "id": 2,
-          "name": "Kebab",
-          "description": "testtt",
-          "language": 2,
-          "sub_category": 1,
-          "language__name": "English",
-          "language__code": "EN"
-        },
-        {
-          "id": 1,
-          "name": "Kebaplar",
-          "description": "kebap test",
-          "language": 1,
-          "sub_category": 1,
-          "language__name": "Türkçe",
-          "language__code": "TR"
-        }
-      ]
-    }
-  ],
-  "category": [
-    {
-      "id": 6,
-      "name": "Food",
-      "description": "cafe38 food eng",
-      "language": 2,
-      "category": 3,
-      "category__firm": 2,
-      "language__name": "English",
-      "language__code": "EN"
-    },
-    {
-      "id": 5,
-      "name": "Yemek",
-      "description": "cafe38 food tr",
-      "language": 1,
-      "category": 3,
-      "category__firm": 2,
-      "language__name": "Türkçe",
-      "language__code": "TR"
-    },
-    {
-      "id": 4,
-      "name": "Drinks",
-      "description": "cafe38 food cafe38",
-      "language": 1,
-      "category": 2,
-      "category__firm": 2,
-      "language__name": "English",
-      "language__code": "EN"
-    },
-    {
-      "id": 3,
-      "name": "Yemek",
-      "description": "yemek test",
-      "language": 1,
-      "category": 1,
-      "category__firm": 1,
-      "language__name": "English",
-      "language__code": "EN"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "name": "Beyti Kebabı",
+    "image": "http://127.0.0.1:8000/media/files/product/None/beyti.jpg",
+    "is_active": true,
+    "firm": 1,
+    "sub_category": 1,
+    "firm__name": "Afitap",
+    "sub_category__name": "Kebaplar",
+    "productlanguage": [
+      {
+        "id": 3,
+        "product": 1,
+        "product__name": "Beyti Kebabı",
+        "name": "Beyti Kebab (EN)",
+        "description": "test description for eng",
+        "language": 2,
+        "language__name": "English",
+        "language__code": "EN"
+      },
+      {
+        "id": 2,
+        "product": 1,
+        "product__name": "Beyti Kebabı",
+        "name": "Beyti Kebabı",
+        "description": "Beyti acıklaması",
+        "language": 1,
+        "language__name": "Türkçe",
+        "language__code": "TR"
+      }
+    ],
+    "productprice": [
+      {
+        "id": 3,
+        "product": 1,
+        "product__name": "Beyti Kebabı",
+        "price": "700.00",
+        "unit": 7,
+        "unit__name": "1.5 Porsiyon"
+      },
+      {
+        "id": 2,
+        "product": 1,
+        "product__name": "Beyti Kebabı",
+        "price": "500.00",
+        "unit": 6,
+        "unit__name": "1 Porsiyon"
+      }
+    ]
+  }
+]

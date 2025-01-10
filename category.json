@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6,
+    "name": "Food",
+    "description": "cafe38 food eng",
+    "language": 2,
+    "category": 3,
+    "category__firm": 2,
+    "language__name": "English",
+    "language__code": "EN"
+  },
+  {
+    "id": 5,
+    "name": "Yemek",
+    "description": "cafe38 food tr",
+    "language": 1,
+    "category": 3,
+    "category__firm": 2,
+    "language__name": "Türkçe",
+    "language__code": "TR"
+  },
+  {
+    "id": 4,
+    "name": "Drinks",
+    "description": "cafe38 food cafe38",
+    "language": 1,
+    "category": 2,
+    "category__firm": 2,
+    "language__name": "English",
+    "language__code": "EN"
+  },
+  {
+    "id": 3,
+    "name": "Yemek",
+    "description": "yemek test",
+    "language": 1,
+    "category": 1,
+    "category__firm": 1,
+    "language__name": "English",
+    "language__code": "EN"
+  }
+]

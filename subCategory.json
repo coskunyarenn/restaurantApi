@@ -1,0 +1,71 @@
+[
+  {
+    "id": 3,
+    "name": "Tatlılar",
+    "image": null,
+    "category": 1,
+    "category__firm": 1,
+    "is_active": true,
+    "category__name": "Yemek",
+    "subcategorylang": [
+      {
+        "id": 3,
+        "name": "Tatlılar",
+        "description": "test",
+        "language": 1,
+        "sub_category": 3,
+        "language__name": "Türkçe",
+        "language__code": "TR"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Mezeler",
+    "image": null,
+    "category": 1,
+    "category__firm": 1,
+    "is_active": true,
+    "category__name": "Yemek",
+    "subcategorylang": [
+      {
+        "id": 4,
+        "name": "mezes",
+        "description": "ddd",
+        "language": 2,
+        "sub_category": 2,
+        "language__name": "English",
+        "language__code": "EN"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Kebaplar",
+    "image": "http://127.0.0.1:8000/media/files/subcategory/None/adana.png",
+    "category": 1,
+    "category__firm": 1,
+    "is_active": true,
+    "category__name": "Yemek",
+    "subcategorylang": [
+      {
+        "id": 2,
+        "name": "Kebab",
+        "description": "testtt",
+        "language": 2,
+        "sub_category": 1,
+        "language__name": "English",
+        "language__code": "EN"
+      },
+      {
+        "id": 1,
+        "name": "Kebaplar",
+        "description": "kebap test",
+        "language": 1,
+        "sub_category": 1,
+        "language__name": "Türkçe",
+        "language__code": "TR"
+      }
+    ]
+  }
+]
