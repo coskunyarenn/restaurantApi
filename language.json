@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "language": 1,
+    "language__name": "Türkçe",
+    "language__code": "TR"
+  },
+  {
+    "id": 2,
+    "language": 2,
+    "language__name": "English",
+    "language__code": "EN"
+  },
+  {
+    "id": 3,
+    "language": 3,
+    "language__name": "Rusca",
+    "language__code": "RU"
+  }
+]
