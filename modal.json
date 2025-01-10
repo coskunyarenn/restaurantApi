@@ -5,7 +5,7 @@
     "firm__name": "Afitap",
     "text": "Test modal",
     "link": "https://lanouba.org/",
-    "image": "http://127.0.0.1:8000/media/files/modal/None/lanouba.jpg"
+    "image": "https://images.unsplash.com/photo-1702887161995-d8e4e4e95aec?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "firm__name": "Cafe34",
     "text": "Test modal",
     "link": "https://lanouba.org/",
-    "image": "http://127.0.0.1:8000/media/files/modal/None/lanouba.jpg"
+    "image": "https://images.unsplash.com/photo-1702887161995-d8e4e4e95aec?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "firm__name": "Cafe38",
     "text": "Test modal",
     "link": "https://lanouba.org/",
-    "image": "http://127.0.0.1:8000/media/files/modal/None/lanouba.jpg"
+    "image": "https://images.unsplash.com/photo-1702887161995-d8e4e4e95aec?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 4,
@@ -29,6 +29,6 @@
     "firm__name": "Cucina",
     "text": "Test modal",
     "link": "https://lanouba.org/",
-    "image": "http://127.0.0.1:8000/media/files/modal/None/lanouba.jpg"
+    "image": "https://images.unsplash.com/photo-1702887161995-d8e4e4e95aec?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   }
 ]
