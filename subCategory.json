@@ -13,7 +13,7 @@
         "name": "Tatlılar",
         "description": "test",
         "language": 1,
-        "sub_category": 3,
+        "sub_category": 9,
         "language__name": "Türkçe",
         "language__code": "TR"
       }
@@ -33,7 +33,7 @@
         "name": "mezes",
         "description": "ddd",
         "language": 2,
-        "sub_category": 2,
+        "sub_category": 22,
         "language__name": "English",
         "language__code": "EN"
       },
@@ -42,7 +42,7 @@
         "name": "mezler",
         "description": "ddd",
         "language": 1,
-        "sub_category": 2,
+        "sub_category": 22,
         "language__name": "Türkçe",
         "language__code": "TR"
       }
@@ -62,7 +62,7 @@
         "name": "Kebab",
         "description": "testtt",
         "language": 2,
-        "sub_category": 1,
+        "sub_category": 11,
         "language__name": "English",
         "language__code": "EN"
       },
@@ -71,7 +71,7 @@
         "name": "Kebaplar",
         "description": "kebap test",
         "language": 1,
-        "sub_category": 1,
+        "sub_category": 11,
         "language__name": "Türkçe",
         "language__code": "TR"
       }
