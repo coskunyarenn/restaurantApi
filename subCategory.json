@@ -76,5 +76,34 @@
         "language__code": "TR"
       }
     ]
+  },
+  {
+    "id": 1,
+    "name": "Viski",
+    "image": "https://plus.unsplash.com/premium_photo-1670601440146-3b33dfcd7e17?q=80&w=3338&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": 1,
+    "category__firm": 1,
+    "is_active": true,
+    "category__name": "Icecek",
+    "subcategorylang": [
+      {
+        "id": 2,
+        "name": "Viski",
+        "description": "viski testtt",
+        "language": 2,
+        "sub_category": 11,
+        "language__name": "English",
+        "language__code": "EN"
+      },
+      {
+        "id": 1,
+        "name": "Viski",
+        "description": "viski tr test",
+        "language": 1,
+        "sub_category": 11,
+        "language__name": "Türkçe",
+        "language__code": "TR"
+      }
+    ]
   }
 ]

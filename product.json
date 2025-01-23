@@ -148,5 +148,56 @@
         "unit__name": "1 Porsiyon"
       }
     ]
+  },
+
+  {
+    "id": 3,
+    "name": "Jack Daniel",
+    "image": "https://plus.unsplash.com/premium_photo-1670601440146-3b33dfcd7e17?q=80&w=3338&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "is_active": true,
+    "firm": 1,
+    "sub_category": 2,
+    "firm__name": "Afitap",
+    "sub_category__name": "Viski",
+    "productlanguage": [
+      {
+        "id": 3,
+        "product": 1,
+        "product__name": "Jack Daniel en",
+        "name": "Jack Daniel",
+        "description": "Jack Daniel description for eng",
+        "language": 2,
+        "language__name": "English",
+        "language__code": "EN"
+      },
+      {
+        "id": 2,
+        "product": 1,
+        "product__name": "Jack Daniel eng",
+        "name": "Jack Daniel",
+        "description": "Jack Daniel acıklaması",
+        "language": 1,
+        "language__name": "Türkçe",
+        "language__code": "TR"
+      }
+    ],
+    "productprice": [
+      {
+        "id": 3,
+        "product": 1,
+        "product__name": "Jack Daniel",
+        "price": "700.00",
+        "unit": 4,
+        "unit__name": "Sise"
+      },
+      {
+        "id": 2,
+        "product": 1,
+        "product__name": "Jack Daniel",
+        "price": "500.00",
+        "unit": 1,
+        "unit__name": "Kadeh"
+      }
+    ]
   }
 ]
