@@ -1,0 +1,51 @@
+[
+  {
+    "id": 7,
+    "name": "1.5 Porsiyon",
+    "firm": 1,
+    "firm__name": "Afitap",
+    "is_active": true
+  },
+  {
+    "id": 6,
+    "name": "1 Porsiyon",
+    "firm": 1,
+    "firm__name": "Afitap",
+    "is_active": true
+  },
+  {
+    "id": 5,
+    "name": "Kadeh",
+    "firm": 1,
+    "firm__name": "Afitap",
+    "is_active": true
+  },
+  {
+    "id": 4,
+    "name": "Sise",
+    "firm": 1,
+    "firm__name": "Afitap",
+    "is_active": true
+  },
+  {
+    "id": 3,
+    "name": "35cl",
+    "firm": 1,
+    "firm__name": "Afitap",
+    "is_active": true
+  },
+  {
+    "id": 2,
+    "name": "70cl",
+    "firm": 1,
+    "firm__name": "Afitap",
+    "is_active": true
+  },
+  {
+    "id": 1,
+    "name": "Kadeh",
+    "firm": 1,
+    "firm__name": "Afitap",
+    "is_active": true
+  }
+]
