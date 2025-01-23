@@ -84,14 +84,14 @@
     "category": 1,
     "category__firm": 1,
     "is_active": true,
-    "category__name": "Icecek",
+    "category__name": "Foods",
     "subcategorylang": [
       {
         "id": 2,
         "name": "Viski",
         "description": "viski testtt",
         "language": 2,
-        "sub_category": 11,
+        "sub_category": 12,
         "language__name": "English",
         "language__code": "EN"
       },
@@ -100,7 +100,7 @@
         "name": "Viski",
         "description": "viski tr test",
         "language": 1,
-        "sub_category": 11,
+        "sub_category": 12,
         "language__name": "Türkçe",
         "language__code": "TR"
       }
