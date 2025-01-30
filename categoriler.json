@@ -1,0 +1,40 @@
+[
+  {"id": 1, "value": "kibris", "label": "Kıbrıs"},
+  {"id": 1, "value": "dunya", "label": "Dünya"},
+  {"id": 1, "value": "rum-basini", "label": "Rum Basını"},
+  {
+    "id": 1,
+    "value": "ekonomy",
+    "label": "Ekonomi",
+    "sub_category": ["Ekonomi", "Otomotiv"]
+  },
+  {"id": 1, "value": "siyaset", "label": "Siyaset"},
+  {"id": 1, "value": "spor", "label": "Spor"},
+  {"id": 1, "value": "yasam", "label": ""},
+  {
+    "id": 1,
+    "value": "",
+    "label": "Yaşam",
+    "subCategories": [
+      "Yaşam",
+      "Magazin",
+      "Astroloji",
+      "Kültür",
+      "Sanat",
+      "Sağlık",
+      "Tv-Sinema"
+    ]
+  },
+  {"id": 1, "value": "ozel-haberler", "label": "Özel Haberler"},
+  {"id": 1, "value": "egitim", "label": "Eğitim"},
+  {"id": 1, "value": "gurme", "label": "Gurme"},
+  {
+    "id": 1,
+    "value": "turizm",
+    "label": "Turizm",
+    "subCategories": ["Turizm", "Tatil"]
+  },
+  {"id": 1, "value": "bilim-teknology", "label": "Bilim-Teknoloji"},
+  {"id": 1, "value": "cevre", "label": "Çevre"},
+  {"id": 1, "value": "en-cok-okunanlar", "label": "En Çok Okunanlar"}
+]
