@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "reklam_konumu": "Ana sayfa Reklam(Tum sayfalar 728*90 px)",
+    "baslik": "",
+    "baslangic_durumu": "",
+    "bitis_durumu": "",
+    "reklam_linki": "",
+    "resim_yolu": "",
+    "redirectLink": ""
+  },
+  {
+    "id": 2,
+    "reklam_konumu": "Ana sayfa Reklam(manset ustu 1 600*100 px)",
+    "baslik": "",
+    "baslangic_durumu": "",
+    "bitis_durumu": "",
+    "reklam_linki": "",
+    "resim_yolu": "",
+    "redirectLink": ""
+  },
+  {
+    "id": 3,
+    "reklam_konumu": "Ana sayfa Reklam(manset ustu 2 600*100 px)",
+    "baslik": "",
+    "baslangic_durumu": "",
+    "bitis_durumu": "",
+    "reklam_linki": "",
+    "resim_yolu": "",
+    "redirectLink": ""
+  },
+  {
+    "id": 4,
+    "reklam_konumu": "Ana sayfa Reklam(manset ustu 3 600*100 px)",
+    "baslik": "",
+    "baslangic_durumu": "",
+    "bitis_durumu": "",
+    "reklam_linki": "",
+    "resim_yolu": "",
+    "redirectLink": ""
+  },
+  {
+    "id": 5,
+    "reklam_konumu": "Ana sayfa Reklam(manset ustu 4 600*100 px)",
+    "baslik": "",
+    "baslangic_durumu": "",
+    "bitis_durumu": "",
+    "reklam_linki": "",
+    "resim_yolu": "",
+    "redirectLink": ""
+  },
+  {
+    "id": 6,
+    "reklam_konumu": "Ana sayfa Reklam(manset yani 435*470 px)",
+    "baslik": "",
+    "baslangic_durumu": "",
+    "bitis_durumu": "",
+    "reklam_linki": "",
+    "resim_yolu": "",
+    "redirectLink": ""
+  },
+  {
+    "id": 7,
+    "reklam_konumu": "Ana sayfa Reklam(manset alti 1 600*100 px)",
+    "baslik": "",
+    "baslangic_durumu": "",
+    "bitis_durumu": "",
+    "reklam_linki": "",
+    "resim_yolu": "",
+    "redirectLink": ""
+  },
+  {
+    "id": 8,
+    "reklam_konumu": "Ana sayfa Reklam(manset alti 2 600*100 px)",
+    "baslik": "",
+    "baslangic_durumu": "",
+    "bitis_durumu": "",
+    "reklam_linki": "",
+    "resim_yolu": "",
+    "redirectLink": ""
+  },
+  {
+    "id": 9,
+    "reklam_konumu": "Ana sayfa Reklam(manset alti 3 600*100 px)",
+    "baslik": "",
+    "baslangic_durumu": "",
+    "bitis_durumu": "",
+    "reklam_linki": "",
+    "resim_yolu": "",
+    "redirectLink": ""
+  },
+  {
+    "id": 10,
+    "reklam_konumu": "Ana sayfa Reklam(manset alti 4 600*100 px)",
+    "baslik": "",
+    "baslangic_durumu": "",
+    "bitis_durumu": "",
+    "reklam_linki": "",
+    "resim_yolu": "",
+    "redirectLink": ""
+  }
+]
