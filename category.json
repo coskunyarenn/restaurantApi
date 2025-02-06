@@ -39,4 +39,15 @@
     "language__name": "English",
     "language__code": "EN"
   }
+  ,
+  {
+    "id": 2,
+    "name": "Foods",
+    "description": "yemek test eng",
+    "language": 1,
+    "category": 2,
+    "category__firm": 1,
+    "language__name": "English",
+    "language__code": "EN"
+  }
 ]
